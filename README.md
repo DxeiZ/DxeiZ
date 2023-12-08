@@ -68,3 +68,4 @@
   
 <img src='https://img.shields.io/badge/Steam-0d1117?style=for-the-badge&logo=steam&logoColor=white'>
 </details>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
